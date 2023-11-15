@@ -18,7 +18,7 @@
 
 ## My Skills
 
-#### Main Stack:
+#### Language and Tools:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -32,7 +32,7 @@
 ![admin](https://img.shields.io/badge/phpMyAdmin-6C78AF.svg?style=for-the-badge&logo=phpMyAdmin&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+![pixelated-gif](https://github.com/EuKennedy/EuKennedy/assets/115658996/d5d954e2-0d03-4573-ac71-12ab576ea13d)
 
 #### Secondary Stack:
 
@@ -47,9 +47,8 @@
 ![clickup](https://img.shields.io/badge/ClickUp-7B68EE.svg?style=for-the-badge&logo=ClickUp&logoColor=white)
 
 &nbsp;
-&nbsp;
 
-## Contacts:
+## Connect With Me:
 
 <div> 
 <a href="https://www.instagram.com/knndy.rodrigues" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
