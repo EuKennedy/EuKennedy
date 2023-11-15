@@ -1,6 +1,8 @@
 
-<iframe src="https://www.behance.net/embed/project/165684019?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
-<p align="center">I love developing projects and solving problems. <br><br> My Main Stack is front-end with react.js and TS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>front-end mid-level developer</strong> focused on web development. In my free time I like to read books and play the guitar 🎸. #heavy metal</p>&nbsp;
+![81bb4b165684019 640b6038d133e](https://github.com/EuKennedy/EuKennedy/assets/115658996/37eb142c-638b-42e6-a83d-b1a3538e50a7)
+
+<p align="center">I love developing projects and solving problems. <br><br> My Main Stack is front-end with react.js and TS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>front-end mid-level developer</strong> focused on web development. In my free time I like to read books and play the guitar 🎸. #heavy meta![81bb4b165684019 640b6038d133e](https://github.com/EuKennedy/EuKennedy/assets/115658996/d843b6f7-099f-4178-b07f-41ed364e96d3)
+l</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=EuKennedy&theme=radical&mode=weekly" />
