@@ -4,7 +4,8 @@
 <p align="center">I love developing projects and solving problems. <br><br> My Main Stack is front-end with react.js and TS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>front-end mid-level developer</strong> focused on web development. In my free time I like to read books and play the guitar 🎸. #heavy metal</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EuKennedy&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=EuKennedy&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
 
  </div>
  
