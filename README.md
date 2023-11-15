@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/EuKennedy/EuKennedy/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://giphy.com/embed/pVGsAWjzvXcZW4ZBTE" width="480" height="254" frameBorder="0" class="giphy-embed"/>
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I love developing projects and solving problems. <br><br> My Main Stack is front-end with react.js and TS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>front-end mid-level developer</strong> focused on web development. In my free time I like to read books and play the guitar 🎸. #heavy metal</p>&nbsp;
