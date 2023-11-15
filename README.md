@@ -32,9 +32,6 @@
 ![admin](https://img.shields.io/badge/phpMyAdmin-6C78AF.svg?style=for-the-badge&logo=phpMyAdmin&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://github.com/EuKennedy/EuKennedy/assets/115658996/d5d954e2-0d03-4573-ac71-12ab576ea13d" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-
 #### Secondary Stack:
 
 ![WORDPRESS](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white
