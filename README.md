@@ -1,7 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://i.imgur.com/lLfM33a.gifv"/>
-&nbsp;&nbsp;&nbsp;
-
+![(https://i.imgur.com/lLfM33a.gifv)]
 <p align="center">I love developing projects and solving problems. <br><br> My Main Stack is front-end with react.js and TS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>front-end mid-level developer</strong> focused on web development. In my free time I like to read books and play the guitar 🎸. #heavy metal</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
