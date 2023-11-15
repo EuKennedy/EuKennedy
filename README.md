@@ -4,7 +4,7 @@
 <p align="center">I love developing projects and solving problems. <br><br> My Main Stack is front-end with react.js and TS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>front-end mid-level developer</strong> focused on web development. In my free time I like to read books and play the guitar 🎸. #heavy metal</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=EuKennedy&theme=radical&mode=weekly" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EuKennedy&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
  </div>
  
@@ -41,6 +41,7 @@
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![clickup](https://img.shields.io/badge/ClickUp-7B68EE.svg?style=for-the-badge&logo=ClickUp&logoColor=white)
 
 &nbsp;
 &nbsp;
