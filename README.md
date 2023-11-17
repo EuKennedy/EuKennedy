@@ -54,5 +54,3 @@
 <a href="https://www.linkedin.com/in/kennedy-rodrigues-b15a78252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
 
-
-<img width=100% src="https://github.com/EuKennedy/EuKennedy/assets/115658996/b0fefd27-5df8-4acd-aa67-988b7a9f63ff"/>
