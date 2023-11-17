@@ -55,4 +55,4 @@
 </div>&nbsp;&nbsp;
 
 
-<img width=100% src="https://github.com/EuKennedy/EuKennedy/assets/115658996/914fc2f2-8117-4609-baa5-9632d419aa17"/>
+<img width=100% src="https://github.com/EuKennedy/EuKennedy/assets/115658996/b0fefd27-5df8-4acd-aa67-988b7a9f63ff"/>
