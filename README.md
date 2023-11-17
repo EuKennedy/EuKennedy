@@ -1,4 +1,5 @@
-![ezgif com-crop](https://github.com/EuKennedy/EuKennedy/assets/115658996/a883d794-9250-45e7-a9d0-69da976abc73)
+![ezgif com-crop](https://github.com/EuKennedy/EuKennedy/assets/115658996/3e8a43ac-89ec-4649-9436-42b58bfc5585)
+
 
 <h1 align="center" color="blue"> Hi 👋! I'm Kennedy. </h1>
 <h2 align="center" color="blue">A passionate Front-End developer from Brazil</h2>
