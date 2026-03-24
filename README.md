@@ -84,7 +84,7 @@ Currently at **APV Group.**
 
 ## Currently
 
-- 🏢 **APV Group** — Software Engineer
+- 🏢 **APV Academy**
 - 🎓 Finishing **Software Engineering** degree
 - 🔨 Building SaaS tools that solve real operational problems
 
