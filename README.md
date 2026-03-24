@@ -10,11 +10,11 @@
 
 ## About
 
-Software Engineer finishing my degree, building **scalable e-commerce**, **sales automation**, and **SaaS platforms** from the ground up. I develop real products with real customers — not side projects.
+Software Engineer building revenue-driven systems.
+I design and ship scalable e-commerce infrastructure, automation pipelines, and SaaS products that operate 24/7.
+Focused on turning business operations into software — not prototypes, but real systems used by real customers.
 
-What I do: I turn internal business problems into production software. From WhatsApp and Telegram automation to full e-commerce operations, I architect and ship systems that run 24/7.
-
-Currently at **APV Academy**.
+Currently at **APV Group.**
 
 ---
 
