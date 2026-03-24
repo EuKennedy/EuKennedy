@@ -14,7 +14,7 @@ Software Engineer finishing my degree, building **scalable e-commerce**, **sales
 
 What I do: I turn internal business problems into production software. From WhatsApp and Telegram automation to full e-commerce operations, I architect and ship systems that run 24/7.
 
-Currently at **APV Group**.
+Currently at **APV Academy**.
 
 ---
 
