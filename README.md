@@ -6,12 +6,10 @@
 
 ## About
 
-Software Engineer focused on building **high-performance, revenue-driven systems**.
+Software Engineer focused on building scalable systems.
 
-I architect and develop scalable e-commerce infrastructures, automation pipelines, and AI-powered solutions that run real businesses 24/7 — not prototypes, but production systems used by real customers.
+I design and develop software using solid engineering principles, clean architecture, and design patterns, always aiming for maintainable and reliable solutions.
 
-Strong focus on **system architecture, clean code, and best engineering practices**, ensuring scalability, maintainability, and performance from day one.
+I use AI as a tool to improve productivity and help deliver systems that solve real problems and support real businesses.
 
-I don’t just build features — I design systems.
-
-Currently at **APV Group.**
+Currently at **APV Academy.**
