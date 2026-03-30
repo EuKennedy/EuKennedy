@@ -6,7 +6,7 @@
 
 ## About
 
-Software Engineer focused on building scalable systems.
+Software Engineer student focused on building scalable systems.
 
 I design and develop software using solid engineering principles, clean architecture, and design patterns, always aiming for maintainable and reliable solutions.
 
