@@ -10,4 +10,4 @@ Currently shipping payment, messaging and AI infrastructure across a few product
 
 **Stack:** TypeScript · Rails · Go · PHP · Next.js · PostgreSQL · Redis · Docker · Cloudflare
 
-[imkennedy.dev](https://imkennedy.dev) · [contact@imkennedy.dev](mailto:contact@imkennedy.dev)
+[imkennedy.dev](https://imkennedy.dev)
