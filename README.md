@@ -1,15 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:25d366,100:0d1117&height=180&section=header&text=Kennedy%20Rodrigues&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Architect%20%7C%20AI%20Developer&descSize=14&descAlignY=55&descColor=8b949e&animation=fadeIn"/>
+### Kennedy Rodrigues
 
-<div align="center">
+Engineer-operator. I build and run SaaS end-to-end — schema, infra, interface, deploy.
 
-</div>
+Currently shipping payment, messaging and AI infrastructure across a few products in production. Primary stack TypeScript; also Rails, Go, PHP.
 
-## About
+**In production:** PayUniverCart · UniverReviews · ZapGrup · UniverZAP · UniverCart Suite
 
-Software Engineer student focused on building scalable systems.
+**Open source:** [multi-channel-dispatch-engine](https://github.com/EuKennedy/multi-channel-dispatch-engine) · [mcpkit](https://github.com/EuKennedy/mcpkit)
 
-I design and develop software using solid engineering principles, clean architecture, and design patterns, always aiming for maintainable and reliable solutions.
+**Stack:** TypeScript · Rails · Go · PHP · Next.js · PostgreSQL · Redis · Docker · Cloudflare
 
-I use AI as a tool to improve productivity and help deliver systems that solve real problems and support real businesses.
-
-Currently at **APV Academy.**
+[imkennedy.dev](https://imkennedy.dev) · [contact@imkennedy.dev](mailto:contact@imkennedy.dev)
